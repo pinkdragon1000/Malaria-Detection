@@ -2,7 +2,7 @@
 
 **Introduction**
 
-Malaria is a life threatening disease caused by parasites that are transmitted through female mosquitoes. Symptoms including fever, headache, and chills appear within 10-15 days after the mosquito bite. If not treated this could lead to death or severe illness. This dataset is orginally hosted by NIH and shared on Kaggle: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria. The dataset contains 27,558 iages of cells with equal instances of parasitized and unparasitized cells.
+Malaria is a life threatening disease caused by parasites that are transmitted through female mosquitoes. Symptoms including fever, headache, and chills appear within 10-15 days after the mosquito bite. If not treated this could lead to death or severe illness. This dataset is orginally hosted by NIH and shared on Kaggle: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria. The dataset contains 27,558 images of cells with equal instances of parasitized and unparasitized cells.
 
 **Purpose**
 
